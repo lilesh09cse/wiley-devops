@@ -1,0 +1,1 @@
+[{"fact": "The grief suffered after a pet dog dies can be the same as that experienced after the death of a person."}, {"fact": "More than one in three U.S. families owns a dog."}, {"fact": "Basset Hounds cannot swim."}]
